@@ -8,4 +8,7 @@ class foo{
 
 $obj=new foo();
 $obj->vaicale();
+
+$obj->color='red';
+echo $obj->color;
 ?>
